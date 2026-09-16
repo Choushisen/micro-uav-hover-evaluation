@@ -1,0 +1,16 @@
+﻿test,route,run,in_current_e3_analysis,detection_records,video_frames,frames_without_detection_record,detection_frame_fraction,detection_frame_percent,header_frames,width,height,encoded_fps,decoded_count_matches_header
+QR_motioncap_brushless_Light_top_NoWind_test1,TOP,1,True,1108,1392,284,0.7959770114942529,79.59770114942529,1392,324,244,8.0,True
+QR_motioncap_brushless_Light_top_NoWind_test2,TOP,2,True,1081,1511,430,0.7154202514890801,71.54202514890801,1511,324,244,8.0,True
+QR_motioncap_brushless_Light_top_NoWind_test3,TOP,3,True,1064,1617,553,0.658008658008658,65.80086580086581,1617,324,244,8.0,True
+QR_motioncap_brushless_Light_top_NoWind_test4,TOP,4,True,1113,1590,477,0.7,70.0,1590,324,244,8.0,True
+QR_motioncap_brushless_Light_top_NoWind_test5,TOP,5,True,1055,1450,395,0.7275862068965517,72.75862068965517,1450,324,244,8.0,True
+QR_motioncap_brushless_Light_mid_NoWind_test1,MID,1,True,748,1053,305,0.7103513770180437,71.03513770180437,1053,324,244,8.0,True
+QR_motioncap_brushless_Light_mid_NoWind_test2,MID,2,True,755,1084,329,0.6964944649446494,69.64944649446494,1084,324,244,8.0,True
+QR_motioncap_brushless_Light_mid_NoWind_test3,MID,3,True,741,1176,435,0.6301020408163265,63.01020408163265,1176,324,244,8.0,True
+QR_motioncap_brushless_Light_mid_NoWind_test4,MID,4,True,640,1075,435,0.5953488372093023,59.53488372093023,1075,324,244,8.0,True
+QR_motioncap_brushless_Light_mid_NoWind_test5,MID,5,True,666,1160,494,0.5741379310344827,57.41379310344828,1160,324,244,8.0,True
+QR_motioncap_brushless_Light_bot_NoWind_test1,BOT,1,True,1089,1531,442,0.7112998040496408,71.12998040496407,1531,324,244,8.0,True
+QR_motioncap_brushless_Light_bot_NoWind_test2,BOT,2,True,994,1378,384,0.7213352685050798,72.13352685050798,1378,324,244,8.0,True
+QR_motioncap_brushless_Light_bot_NoWind_test3,BOT,3,True,1000,1393,393,0.7178750897343862,71.78750897343862,1393,324,244,8.0,True
+QR_motioncap_brushless_Light_bot_NoWind_test4,BOT,4,True,1118,1364,246,0.8196480938416423,81.96480938416423,1364,324,244,8.0,True
+QR_motioncap_brushless_Light_bot_NoWind_test5,BOT,5,True,1112,1397,285,0.7959914101646385,79.59914101646385,1397,324,244,8.0,True

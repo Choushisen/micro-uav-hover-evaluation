@@ -1,0 +1,4 @@
+﻿level,flights,windows,paired_samples,min_samples_per_window,max_samples_per_window
+bot,5,25,4105,95,181
+mid,5,15,2471,111,196
+top,5,25,4103,122,180

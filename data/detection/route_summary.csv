@@ -1,0 +1,5 @@
+﻿route,windows,windows_with_unboxed_frames,span_frames,boxed_frames,unboxed_frames,internal_gap_events,max_consecutive_unboxed_frames,detection_frame_fraction
+TOP,25,12,4295,4103,192,87,10,0.9552968568102445
+MID,15,13,2689,2471,218,112,9,0.9189289698772778
+BOT,25,11,4308,4105,203,101,10,0.952878365831012
+ALL,65,36,11292,10679,613,300,10,0.9457137796670209
