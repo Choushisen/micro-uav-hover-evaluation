@@ -46,3 +46,14 @@ Position records denoted `mocap_*` in legacy column names are motion-capture-aid
 Timing offsets query the Kalman and attitude records at visual host timestamp plus offset. They are a time-sensitivity diagnostic. Detection-frame proportions are counts over recorded video frames, not annotated object-detection recall. The within-window denominator spans the first to last detected frame in each retained hover interval.
 
 See `DATA_DICTIONARY.md` for identifiers, units, coordinate fields, and mode definitions.
+
+## License
+
+The analysis and plotting code is licensed under the MIT License
+(see LICENSE).
+
+The experimental data in data/ are licensed under CC BY 4.0
+(see data/LICENSE).
+
+Please cite the associated paper when using these materials
+in research.
